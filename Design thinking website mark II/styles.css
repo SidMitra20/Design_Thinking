@@ -1,0 +1,91 @@
+
+
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+    background-image: url("cool-background (2).svg");
+    background-size: 200%;    
+    overflow:scroll;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    text-align:start;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    color: black;
+    border: black;
+  
+  }
+  
+  .nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    color: black;
+  }
+  
+  .left-side {
+    display:flex;
+    color: black;
+    margin-bottom: ;
+    text-transform: none;
+    font-size: x-large;
+  
+  }
+  
+  .nav-wrapper > .left-side > div {
+    margin-right: 20px;
+    text-transform: ;
+    font-size: 0.9rem;
+    
+  }
+  
+ 
+  
+  .active-nav-link {
+    color: black;
+  }
+  
+  .active-nav-link a {
+    color:black !important;
+  }
+  
+  .nav-link-wrapper a {
+    color:black;
+    
+  }
+  
+  .nav-link-wrapper:hover {
+     color: black;
+  }
+  
+  .nav-link-wrapper a:hover {
+    color:;
+  }
+  
+  .text-wrapper p {
+    position:relative;
+    color: black;
+    
+  }
+
+  .margin-container h1 {
+    margin-top: 40px;
+  }
+
+  .nav-link-wrapper active-nav-link {
+    padding: 20px;
+  }
+
+  .text-wrapper h1 {
+    margin-top: 50px;
+  }
+
+
+ 
+ 
+ 
+  
+      
